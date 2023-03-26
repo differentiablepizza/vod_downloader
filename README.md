@@ -40,3 +40,5 @@ If a VOD has already been downloaded, it will be skipped.
 If a WAV file has already been downsampled to 16kHz, it will be skipped.
 The script assumes that the MongoDB server is running locally and that the database twitch-vod-downloads has already been created.
 The script assumes that the user running the script has read and write access to the /home/username/Videos/ directory.
+
+This README was generated with ChatGPT
